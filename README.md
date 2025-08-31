@@ -61,3 +61,35 @@ RUN:
 ###Run the development server
 
 "npm run dev"
+
+### SPECIAL FEATURES
+
+This project is developed as part of the **Frontend Development Intern assignment** for **Altibbe Health Private Solutions**.  
+It is built using **Next.js** and **Tailwind CSS**, with modern UI practices and smooth animations.
+
+---
+
+##  Features Implemented
+
+- **Responsive Design**  
+  - Works seamlessly across desktop, tablet, and mobile devices.  
+  - Layout adjusts dynamically for better user experience.  
+
+- **Framer Motion Animations**  
+  - Added smooth transitions and animations for components.  
+  - Enhances interactivity and modern look & feel.  
+
+- **Clean & Modern UI Design**  
+  - Minimal, professional design with proper spacing and typography.  
+  - Interactive hover states and focus styles.  
+  - User-friendly component structure.  
+
+---
+
+##  Tech Stack
+- **Next.js** – React framework for server-side rendering and routing  
+- **Tailwind CSS** – Utility-first CSS framework for styling  
+- **Framer Motion** – Animation library for smooth UI transitions  
+
+---
+
