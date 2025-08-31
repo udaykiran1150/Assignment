@@ -4,7 +4,7 @@ This project is built using [Next.js](https://nextjs.org/) and [Tailwind CSS](ht
 
 ---
 
-## 🚀 Features
+##  Features
 - Server-side rendering with Next.js
 - API Routes support
 - Optimized for production
@@ -12,14 +12,14 @@ This project is built using [Next.js](https://nextjs.org/) and [Tailwind CSS](ht
 
 ---
 
-## 📦 Prerequisites
+##  Prerequisites
 Make sure you have the following installed:
 - [Node.js](https://nodejs.org/) (v18 or later recommended)
 - npm or yarn or pnpm
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ### 1. Clone the repository
 ```bash
@@ -31,20 +31,14 @@ This project is built using [Next.js](https://nextjs.org/) and [Tailwind CSS](ht
 
 ---
 
-## 🚀 Features
-- Server-side rendering with Next.js
-- API Routes support
-- Optimized for production
-- Responsive UI with Tailwind CSS (if included)
 
----
 
-## 📦 Prerequisites
+##  Features
 Make sure you have the following installed:
 - [Node.js](https://nodejs.org/) (v18 or later recommended)
 - npm or yarn or pnpm
 
----
+
 
 ## ⚙️ Installation & Setup
 
